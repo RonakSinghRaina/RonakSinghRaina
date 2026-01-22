@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on<br>Computational projects in astrophysics involving numerical simulations, data analysis, and scientific computing using Python and C++.<br><br>I’m looking to collaborate on<br>Short-term research projects in computational astrophysics, numerical modeling, and data-driven studies related to cosmology, high-energy astrophysics, or gravitational-wave data analysis.<br><br><br>I’m currently learning<br>Advanced numerical methods, statistical data analysis techniques, and tools used in computational astrophysics and cosmology and frequently<br>Python for scientific computing, numerical simulations, data analysis pipelines, and transitioning from theoretical physics to computational research.
 
 
